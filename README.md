@@ -1,8 +1,5 @@
 # Hi there! 👋
 
-I'm a passionate developer who loves building modern web applications. My expertise lies in creating responsive, user-friendly interfaces with cutting-edge technologies.
-
-# 💫 About Me:
 Welcome to my digital space! I'm Adnan Hussain, a Top Rated Plus full-stack Web and Mobile Application developer with over 6 years of experience delivering high-performance, scalable solutions. Specializing in React, React Native, NodeJS, GraphQL, and NextJS, I create modern, efficient, and user-friendly applications tailored to business needs.
 
 From building seamless user interfaces to developing complex backend architectures, I focus on delivering smooth and reliable digital experiences. My expertise extends to AI-powered applications, microservices architecture, cloud computing (AWS, GCP, Azure), and real-time technologies, ensuring scalability and efficiency in every project.
@@ -32,9 +29,7 @@ With a proven track record of successful projects and multiple live mobile apps 
 
 ## 📫 How to Reach Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adnandothussain/)
-
-[![Upwork](https://img.shields.io/badge/Upwork-6FDA44?logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~017dfd8b8b58f0e292)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adnandothussain/)  [![Upwork](https://img.shields.io/badge/Upwork-6FDA44?logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~017dfd8b8b58f0e292)
 
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:adnanrajput42@gmail.com)
 

@@ -9,31 +9,29 @@ With a proven track record of successful projects and multiple live mobile apps 
 ### 🛠️ Technical Expertise
 
 | Frontend | Backend | AI & Automation |
-|----------|---------|-----------------|
-| React | Node.js | Generative AI |
-| React Native | GraphQL | GPT Integration |
-| Next.js | NestJS | LangChain |
-| Redux | PostgreSQL | RAG Chatbots |
-| Tailwind CSS | MongoDB | AutoGPT |
-| Material UI | FastAPI | |
-| Ant Design | Django | |
+|--------------|---------|-----------------|
+| React        | Node.js    | Generative AI   |
+| React Native | GraphQL    | GPT Integration |
+| Next.js      | NestJS     | LangChain       |
+| Redux        | PostgreSQL | RAG Chatbots    |
+| Tailwind CSS | MongoDB    | AutoGPT         |
+| Material UI  | FastAPI    |                 |
+| Ant Design   | Django     |                 |
 
-| Cloud & DevOps | Integrations & Services | Software Architecture |
-|----------------|------------------------|----------------------|
-| AWS | Payment Gateways | Microservices |
-| GCP | Push Notifications | Event-Driven Systems |
-| Azure | Email & SMS APIs | Real-Time Applications |
-| Docker | | |
-| Kubernetes | | |
-| CI/CD | | |
+| Cloud & DevOps         | Integrations & Services| Software Architecture |
+|------------------------|------------------------|-----------------------|
+| AWS                    | Payment Gateways       | Microservices         |
+| GCP                    | Push Notifications     | Event-Driven Systems  |
+| Azure                  | Email & SMS APIs       | Real-Time Applications|
+| Docker                 |                        |                       |
+| Kubernetes             |                        |                       |
+| CI/CD                  |                        |                       |
 
 ## 📫 How to Reach Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adnandothussain/)  [![Upwork](https://img.shields.io/badge/Upwork-6FDA44?logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~017dfd8b8b58f0e292)
 
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:adnanrajput42@gmail.com)
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=About.me&logoColor=white)](https://www.adnanhussain.me/)
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:adnanrajput42@gmail.com) [![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=About.me&logoColor=white)](https://www.adnanhussain.me/)
 
 
 ## ⚡ Fun Facts
